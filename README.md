@@ -10,6 +10,7 @@ Remax 周边收集
 
 ### 文章
 
+- [《Remax - 使用 React 开发小程序》](https://www.yuque.com/seeconf/2020/qsytho)
 - [《在小程序中实现动态模板 - Remax 实现原理》](https://zhuanlan.zhihu.com/p/91300119)
 
 
