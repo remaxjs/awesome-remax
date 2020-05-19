@@ -17,7 +17,9 @@ Remax 周边收集
 
 ### 组件
 
-- [Anna Remax UI](https://annasearl.github.io/anna-remax-ui) - 一款基于 Remax 框架开发的UI组件库
+- [Anna Remax UI](https://annasearl.github.io/anna-remax-ui) - 一款基于 Remax 框架开发的UI组件库。
+- [remax-recycle-view](https://github.com/remaxjs/remax-recycle-view) - 利用虚拟滚动技术的长列表组件，解决了长列表渲染的性能问题。
+
 
 ### 插件
 
