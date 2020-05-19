@@ -4,6 +4,10 @@ Remax 周边收集
 
 ## 目录
 
+- [文章](#文章)
+- [教程](#教程)
+- [组件](#组件)
+- [插件](#插件)
 
 ### 文章
 
@@ -15,7 +19,8 @@ Remax 周边收集
 
 - [Anna Remax UI](https://annasearl.github.io/anna-remax-ui) - 一款基于 Remax 框架开发的UI组件库
 
-
 ### 插件
+
+- [remaxjs/plugins](https://github.com/remaxjs/plugins) - 官方插件库
 
 ### 项目
