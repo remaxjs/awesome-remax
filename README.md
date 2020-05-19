@@ -1,6 +1,6 @@
 # awesome-remax [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Remax 炫酷周边收集
+Remax 炫酷周边集
 
 ## 目录
 
