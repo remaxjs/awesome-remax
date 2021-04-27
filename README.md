@@ -7,6 +7,7 @@ Remax 炫酷周边集
 - [文章](#文章)
 - [组件](#组件)
 - [插件](#插件)
+- [社区](#社区)
 
 ### 文章
 
@@ -24,3 +25,7 @@ Remax 炫酷周边集
 ### 插件
 
 - [remaxjs/plugins](https://github.com/remaxjs/plugins) - 官方插件库
+
+### 社区
+
+- [@fower/remax](https://fower.vercel.app/docs/use-with-remax) - 在 Remax 中使用 utility-first CSS in JS 样式方案
