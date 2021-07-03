@@ -22,9 +22,11 @@ Remax 炫酷周边集
 - [remax-iconfont](https://github.com/IronLu233/remax-iconfont) - 快速将 Iconfont 引入至 Remax 项目中。
 - [remax-virtual-list](https://github.com/dominicleo/remax-virtual-list) - 用于高效地呈现大型列表和表格数据（支持水平列表和表格数据渲染）。
 - [remax-markdown](https://github.com/sylingd/remax-markdown) - 在Remax 将 Markdown 渲染为原生 React 组件，支持替换默认渲染行为、扩展语法。
-- [remax-prerender-plugin](https://github.com/lee88688/remax-prerender-plugin) - 在 Remax 中已插件形式支持预渲染技术提升当页面节点过多时用户体验 (
-  目前仅支持微信平台)
 
 ### 插件
 
 - [remaxjs/plugins](https://github.com/remaxjs/plugins) - 官方插件库
+- [remax-prerender-plugin](https://github.com/lee88688/remax-prerender-plugin) - 在 Remax 中已插件形式支持预渲染技术提升当页面节点过多时用户体验 (
+  目前仅支持微信平台)
+- [webpack-remax-phone-frame-plugin](https://github.com/IronLu233/webpack-remax-phone-frame-plugin) - 在 Remax
+  One同构中加入手机壳样式
