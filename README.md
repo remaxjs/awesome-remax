@@ -36,3 +36,4 @@ Remax 炫酷周边集
   目前仅支持微信平台)
 - [webpack-remax-phone-frame-plugin](https://github.com/IronLu233/webpack-remax-phone-frame-plugin) - 在 Remax
   One同构中加入手机壳样式
+- [react-vant-weapp-typings](https://github.com/fanhaoyuan/vant-weapp-typings/tree/master/packages/react-vant-weapp-typings) - `vant-weapp`的`React`组件的类型声明库
